@@ -5,7 +5,7 @@
 }
 
 body{
-  background-image:url(../img/good.png),url(../img/sora.jpg);
+  background-image:url(./good.png),url(./sora.jpg);
   background-repeat: no-repeat, no-repeat;
   background-color: lightgray;
   margin: 5px;
